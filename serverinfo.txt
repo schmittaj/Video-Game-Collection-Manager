@@ -1,0 +1,4 @@
+database prefix
+database id
+database host name
+database password
